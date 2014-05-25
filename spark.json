@@ -1,0 +1,7 @@
+{
+	"name": "freenode-bot",
+	"author": "Garrett Bartley <wgb@wgb.me>",
+	"version": "0.0.1",
+	"license": "Team Deathmatch",
+	"description": "A Freenode IRC bot"
+}
